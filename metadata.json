@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FreeParty India",
+  "description": "Discover the best free nightlife events in India, join guest lists, and request songs at the DJ booth.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
